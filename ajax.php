@@ -1,7 +1,7 @@
 
 <input type="text" name="teste" id="teste">
 
-<script type="text/javascript">
+<script type="text/javascript" teste>
 
   function salvar(id_foto){
 
